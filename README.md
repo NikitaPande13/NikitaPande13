@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NikitaPande13
+- Hi there, I'm Nikita Pande👋
 - 👀 I’m interested in Data Analytics and Machine learning 
 - 🌱 I’m currently learning Data Analytics and Machine learning
 - 💞️ I’m looking to collaborate on Machine Learning
