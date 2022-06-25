@@ -1,3 +1,4 @@
+alt PRs Welcome Open Source? Yes! GitHub contributors Pull Request Counts last commit deployment-status Build Status 
 - Hi there, I'm Nikita Pande👋
 - 👀 I’m interested in Data Analytics and Machine learning 
 - 🌱 I’m currently learning Data Analytics and Machine learning
